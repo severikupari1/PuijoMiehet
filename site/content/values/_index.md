@@ -1,5 +1,5 @@
 ---
-title: Values
+title: Uutiset
 image: /img/volleyball-2582096_1920.jpg
 values:
   - heading: Lentopallon blogi
