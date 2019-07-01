@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Joukkueemme
 type: Joukkue
 image: /img/Joukkue-jumbotron.jpg
 heading: What we offer
