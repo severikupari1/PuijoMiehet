@@ -8,7 +8,7 @@ blurb:
 intro:
   heading: Tämä on muokattava
   text: Tähän voisi keksiä jotakin tekstiä meistä.
-products:
+Joukkue:
   - image: img/illustrations-coffee.svg
     text: Tähän tulevat joukkueemme jäsenet yksittäin
   - image: /img/illustrations-coffee-gear.svg
