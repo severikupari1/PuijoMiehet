@@ -2,10 +2,8 @@
 title: Yhteystiedot
 logo: /img/puijopng.png
 contact_entries:
-  - heading: Location
-    text: '3153 Lynn Avenue, South San Francisco, California 94080'
-  - heading: Working hours
-    text: 'Monday – Saturday: 9AM – 7PM We’re closed on Sundays'
+  - heading: Kotihallimme
+    text: Tähän kotihallimme osoitetiedot
 ---
 
 Haluaisimme kertoa sinulle milloin meillä on tulevat pelit, alempana voit kertoa meille mietteitäsi sivustosta tai kertoa palautetta
