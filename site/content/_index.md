@@ -9,9 +9,9 @@ intro:
   heading: Tämä on muokattava
   text: Tähän voisi keksiä jotakin tekstiä meistä.
 Joukkue:
-  - image: img/illustrations-coffee.svg
+  - image: /img/omakuva.jpg
     text: Tähän tulevat joukkueemme jäsenet yksittäin
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/omakuva.jpg
     text: Tähän tulevat joukkueemme jäsenet yksittäin
 values:
   heading: Kertomuksia meistä joukkueena?
