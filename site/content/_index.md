@@ -10,9 +10,8 @@ intro:
   text: Tähän voisi keksiä jotakin tekstiä meistä.
 Joukkue:
   - image: /img/omakuva.jpg
-    text: Tähän tulevat joukkueemme jäsenet yksittäin
-  - image: /img/omakuva.jpg
-    text: Tähän tulevat joukkueemme jäsenet yksittäin
+    text: |
+      Pelaaja1
 values:
   heading: Kertomuksia meistä joukkueena?
   text: Jotain tekstejä ja kertomuksia tulevista asioista.
