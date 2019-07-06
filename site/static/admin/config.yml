@@ -83,3 +83,6 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/live/_index.md"
         label: "Live sivu"
         name: "live"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
