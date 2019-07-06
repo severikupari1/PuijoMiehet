@@ -7,12 +7,8 @@ intro:
   blurbs:
     - image: /img/omakuva.jpg
       text: 'Keskari #14'
-  heading: What we offer
-  description: >
-    Puijo is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Joukkue
+  description: Alempana tietoja pelaajistamme.
 main:
   heading: Kertomuksia pelaajista?
   description: |-
