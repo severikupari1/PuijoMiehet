@@ -81,5 +81,5 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
       - file: "site/content/live/_index.md"
-          label: "Live sivu"
-          name: "live"
+        label: "Live sivu"
+        name: "live"
