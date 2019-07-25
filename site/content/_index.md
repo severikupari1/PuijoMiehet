@@ -3,15 +3,25 @@ title: 'Puijo Wolley '
 subtitle: 'Miehet edustusjoukkue '
 image: /img/volleyball-2582096_1920.jpg
 blurb:
-  heading: Tietoja meistä
-  text: 'Tähän voisi keksiä jonkin hyvän aloitus tekstin, Kiitoos :D'
+  heading: Miesten edustusjoukkueen esittely
+  text: >-
+    Puijo Wolleyn miesten edustusjoukkue pelaa lentopallon 2-sarjaa. Joukkueen
+    runko muodostuu suurelta osin seuran omista juniorijoukkueista tulleista
+    pelaajista. Tämän lisäksi mukana on muutamia vanhempia pelaajia tuomassa
+    joukkueeseen kaivattua kokemusta. 
+
+
+    Joukkue pyrki harjoittelemaan hyvin, niin määrällisesti kuin laadullisesti.
+    Joukkueemme on monelle juniorille sopiva "välietappi" kohti yläsarjatasoja.
+    Puijo Wolleyn edustusjoukkueesta on useampi peluri ponnistanut kohti
+    1-sarjaa sekä mestaruusliigaa, lopulta jopa Suomenmestariksi saakka.
+
+
+    Puijo Wolleyn tunnusmerkkinä on toimivan seuraorganisaation lisäksi hyvä
+    joukkuehenki ja yhdessä tekemisestä kumpuava huumori.
 intro:
   heading: Tämä on muokattava
   text: Tähän voisi keksiä jotakin tekstiä meistä.
-Joukkue:
-  - image: /img/omakuva.jpg
-    text: |
-      Pelaaja1
 values:
   heading: Kertomuksia meistä joukkueena?
   text: Jotain tekstejä ja kertomuksia tulevista asioista.
