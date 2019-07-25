@@ -7,6 +7,8 @@ intro:
   blurbs:
     - image: /img/omakuva.jpg
       text: 'Keskari #14'
+    - image: /img/puijo-wolley-pelaajat-030.jpg
+      text: Pekka (testikuva)
   heading: Joukkue
   description: Alempana tietoja pelaajistamme.
 main:
