@@ -6,12 +6,12 @@ blurb:
   heading: Miesten edustusjoukkueen esittely
   text: >-
     Puijo Wolleyn miesten edustusjoukkue pelaa lentopallon 2-sarjaa. Joukkueen
-    runko muodostuu suurelta osin seuran omista juniorijoukkueista tulleista
-    pelaajista. Tämän lisäksi mukana on muutamia vanhempia pelaajia tuomassa
-    joukkueeseen kaivattua kokemusta. 
+    runko muodostuu suurelta osin seuran omista junioripelaajista. Tämän lisäksi
+    mukana on muutamia vanhempia pelaajia tuomassa joukkueeseen kaivattua
+    kokemusta. 
 
 
-    Joukkue pyrki harjoittelemaan hyvin, niin määrällisesti kuin laadullisesti.
+    Joukkue pyrkii harjoittelemaan hyvin, niin määrällisesti kuin laadullisesti.
     Joukkueemme on monelle juniorille sopiva "välietappi" kohti yläsarjatasoja.
     Puijo Wolleyn edustusjoukkueesta on useampi peluri ponnistanut kohti
     1-sarjaa sekä mestaruusliigaa, lopulta jopa Suomenmestariksi saakka.
