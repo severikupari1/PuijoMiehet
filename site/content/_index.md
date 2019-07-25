@@ -20,8 +20,13 @@ blurb:
     Puijo Wolleyn tunnusmerkkinä on toimivan seuraorganisaation lisäksi hyvä
     joukkuehenki ja yhdessä tekemisestä kumpuava huumori.
 intro:
-  heading: Tämä on muokattava
-  text: Tähän voisi keksiä jotakin tekstiä meistä.
+  heading: Vamistautuminen sarjakauteen käynnissä
+  text: >-
+    Puijo Wolleyn miesten edeustusjoukkue kännisti yhteistreenit kesäkuun
+    alkupuolella. Fysiikkaharjoitteluun painottuvaa yhteisjaksoa seurasi
+    kuukauden omatoimijakso. Samaan aikaan joukkueen rosteria on täydennetty
+    tulevaa sarjakautta varten. Katso linkistä joukkueemme tämän hetkinen
+    kokoonpano.
 values:
   heading: Kertomuksia meistä joukkueena?
   text: Jotain tekstejä ja kertomuksia tulevista asioista.
