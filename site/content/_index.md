@@ -12,9 +12,9 @@ blurb:
 
 
     Joukkue pyrkii harjoittelemaan hyvin, niin määrällisesti kuin laadullisesti.
-    Joukkueemme on monelle juniorille sopiva "välietappi" kohti yläsarjatasoja.
-    Puijo Wolleyn edustusjoukkueesta on useampi peluri ponnistanut kohti
-    1-sarjaa sekä mestaruusliigaa, lopulta jopa Suomenmestariksi saakka.
+    Joukkueemme on monelle juniorille sopiva "välietappi" kohti yläsarjoja.
+    Puijo Wolleyn edustusjoukkueesta on moni peluri ponnistanut kohti 1-sarjan
+    kärkeä sekä mestaruusliigaa, lopulta jopa Suomenmestariksi saakka.
 
 
     Puijo Wolleyn tunnusmerkkinä on toimivan seuraorganisaation lisäksi hyvä
