@@ -28,7 +28,8 @@ intro:
     tulevaa sarjakautta varten. Katso linkistä joukkueemme tämän hetkinen
     kokoonpano.
 values:
-  heading: Kertomuksia meistä joukkueena?
-  text: Jotain tekstejä ja kertomuksia tulevista asioista.
+  heading: Kertomuksia meistä joukkueena
+  text: |
+    Lue lisää
 ---
 
